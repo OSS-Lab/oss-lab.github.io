@@ -1,0 +1,8 @@
+title: OSS lab resouces
+description: Github repositories of some projects from OSS lab @ University of Warwick
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
